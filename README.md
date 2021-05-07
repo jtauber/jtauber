@@ -1,16 +1,24 @@
-### Hi there 👋
+# James K. Tauber
 
-<!--
-**jtauber/jtauber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python and Web developer using computers to better understand languages and texts.
 
-Here are some ideas to get you started:
+## Main Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- https://scaife-viewer.org
+- https://greek-learner-texts.org
+- https://digitaltolkien.com
+
+plus many Python packages for text processing, text analysis, and more!
+
+## Educational Background
+
+- Linguistics
+- Classical Greek
+- Educational Research
+- Germanic Philology
+- Music Theory and Composition
+- Data Science
+
+## Hire Me and My Company
+
+- https://eldarion.com
