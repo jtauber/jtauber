@@ -1,6 +1,6 @@
 # James K. Tauber
 
-Python and Web developer using computers to help people better understand languages and texts.
+Python and Web developer using linguistics, data science, and open source software to help people better understand languages and texts.
 
 ## Main Projects
 
