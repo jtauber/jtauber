@@ -15,6 +15,7 @@ plus many Python packages for text processing, text analysis, and more!
 - Linguistics
 - Classical Greek
 - Educational Research
+- Teaching in Higher Education
 - Germanic Philology
 - Music Theory and Composition
 - Data Science
