@@ -1,6 +1,6 @@
 # James K. Tauber
 
-Python and Web developer using linguistics, data science, and open source software to help people better understand languages and texts.
+Python and Web developer using linguistics, data science, and open source software to help people better understand languages, texts, and music.
 
 ## Main Projects
 
@@ -12,14 +12,11 @@ plus many Python packages for text processing, text analysis, and more!
 
 ## Educational Background
 
-- Linguistics
+- General Linguistics
+- Corpus Linguistics
 - Classical Greek
 - Educational Research
 - Teaching in Higher Education
 - Germanic Philology
 - Music Theory and Composition
 - Data Science
-
-## Hire Me and My Company
-
-- https://eldarion.com
